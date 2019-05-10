@@ -15,10 +15,10 @@ Grupo de Aprendizado de Máquina
 ### Lista de Frentes de Trabalho
 
 * Ciência de Dados Educacionais - Renata Pitta 
-* Reconhecimeno de Aúdio - 
+* Reconhecimeno de Aúdio - Victor Petch 
 * Carros Autônomos - 
 * Processamento de Linguagem Natural - 
-* Reconhecimento de Gestos - 
+* Reconhecimento de Gestos - Wendell Alves 
 
 
 
