@@ -13,13 +13,22 @@ Grupo de Aprendizado de Máquina
 * Helton Maia
 
 
-### Lista de Frentes de Trabalho
+### Lideres
 
-* Ciência de Dados Educacionais - Renata Pitta 
-* Reconhecimeno de Aúdio - Victor Petch 
-* Carros Autônomos - Larissa 
-* Processamento de Linguagem Natural - Glauber 
-* Reconhecimento de Gestos - Wendell Alves 
+**Ciência de Dados Educacionais**
+* Renata Pitta 
+
+**Reconhecimeno de Aúdio** 
+* Victor Petch 
+
+**Carros Autônomos**
+* Larissa
+
+**Processamento de Linguagem Natural**
+* Glauber 
+
+**Reconhecimento de Gestos** 
+* Wendell Alves 
 
 
 
