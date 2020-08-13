@@ -5,11 +5,12 @@ Grupo de Aprendizado de Máquina
 ## Repositório de Contribuições do Grupo  
 
 ### Professores Orientadores
-* Orivaldo Santana
-* Igor Rosberg
 * Aquiles Burlmaqui
-* Renata Pitta 
+* Efrain Matamoros
+* Igor Rosberg
 * Helton Maia
+* Orivaldo Santana
+* Renata Pitta 
 
 
 ### Lideres
