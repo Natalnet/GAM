@@ -2,7 +2,10 @@
 Grupo de Aprendizado de Máquina 
 
 
-## Repositório de Contribuições do Grupo  
+### Discord
+* Convite para entrar no servidor https://discord.gg/b9GBWgC 
+
+### Repositório de Contribuições do Grupo  
 
 ### Professores Orientadores
 * Aquiles Burlmaqui
@@ -14,15 +17,17 @@ Grupo de Aprendizado de Máquina
 
 
 ### Lideres
+* Vilson 
 
-
-### Alunos 
+### Alunos de IC
 
 * Efrain Júnior 
 * Lucas Alves 
 * Vilson 
 * Isaac 
 * José Victor
+
+### Alunos Voluntários 
 
 ### Projetos 
 * PVJ15591-2018 - Desenvolvendo algoritmos de aprendizado de máquina para robótica 
