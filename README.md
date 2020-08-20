@@ -66,6 +66,8 @@ Grupo de Aprendizado de Máquina
 * Relatórios 
 * Artigos 
 
+### Desafios 
 
+* Treinar um robô para desviar de obstáculos com machine learning e visão computacional. 
 
 
